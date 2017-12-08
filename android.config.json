@@ -1,0 +1,6 @@
+{
+  "AppName":"快速医疗",
+  "AppId":"com.alibaba.ksyl",
+  "SplashText":"Hello\nWeex",
+  "WeexBundle":"index.js"
+}
